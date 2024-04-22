@@ -1,4 +1,4 @@
-Artificial Intelligence for Joint Amplitude Analysis 
+# Artificial Intelligence for Joint Amplitude Analysis 
 
 This repository contains the code for the project "Intelligence Articulaire pour l'Analyse des Amplitudes Articulaire" (IAAAA), made with Jules Descamps, Timothée Maire and Valerian Fiodiere from Hôpital Lariboisière, during a module of the MVA master.
 
@@ -22,7 +22,7 @@ We extract time series of landmarks from the videos using Mediapipe Pose estimat
 
 https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_heavy/float16/latest/pose_landmarker_heavy.task
 
-Liter models are also available at https://developers.google.com/mediapipe/solutions/vision/pose_landmarker . 
+Lighter models are also available at https://developers.google.com/mediapipe/solutions/vision/pose_landmarker . 
 
 
 3. Organize your bag recordings with RGB-D data in separated folders for each patient, the name of the folder should be an integer identifying the patient.
